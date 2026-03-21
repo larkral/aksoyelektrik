@@ -124,7 +124,7 @@ export default function KullanimSartlariPage() {
                   <strong>Aksoy Elektrik & Elektronik</strong>
                 </p>
                 <p>Telefon: 0543 482 90 62</p>
-                <p>E-posta: info@aksoyelektrik.com</p>
+                <p>E-posta: info@aksoyelektronik03.com</p>
               </div>
             </section>
           </div>

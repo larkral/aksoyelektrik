@@ -144,10 +144,10 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <Mail className="mt-0.5 h-4 w-4 text-brand-red" />
                 <a
-                  href="mailto:info@aksoyelektrik.com"
+                  href="mailto:info@aksoyelektronik03.com"
                   className="text-sm text-white/65 transition-colors hover:text-brand-red"
                 >
-                  info@aksoyelektrik.com
+                  info@aksoyelektronik03.com
                 </a>
               </li>
 

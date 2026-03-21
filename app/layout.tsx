@@ -118,7 +118,7 @@ const localBusinessSchema = {
   logo: `${siteUrl}/logoaksoy.png`,
   image: `${siteUrl}/og-image.jpg`,
   telephone: "+90 543 482 90 62",
-  email: "info@aksoyelektrik.com",
+  email: "info@aksoyelektronik03.com",
   address: {
     "@type": "PostalAddress",
     streetAddress: "Esentepe Mahallesi 314. Sokak No:22",
