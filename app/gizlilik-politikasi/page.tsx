@@ -135,7 +135,7 @@ export default function GizlilikPolitikasiPage() {
                   <strong>Aksoy Elektrik & Elektronik</strong>
                 </p>
                 <p>Telefon: 0543 482 90 62</p>
-                <p>E-posta: info@aksoyelektronik03.com</p>
+                <p>E-posta: aksoyelektronik03@gmail.com</p>
               </div>
             </section>
           </div>

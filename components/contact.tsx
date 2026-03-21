@@ -23,8 +23,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: "E-posta",
-    value: "info@aksoyelektronik03.com",
-    href: "mailto:info@aksoyelektronik03.com",
+    value: "aksoyelektronik03@gmail.com",
+    href: "mailto:aksoyelektronik03@gmail.com",
   },
   {
     icon: MapPin,
