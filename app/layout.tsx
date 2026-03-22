@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
 })
 
-const siteUrl = "https://www.aksoyelektrik.com"
+const siteUrl = "https://www.aksoyelektrikafyon.com"
 const siteName = "Aksoy Elektrik & Elektronik"
 const defaultTitle =
   "Aksoy Elektrik & Elektronik | Profesyonel Elektrik Çözümleri"
