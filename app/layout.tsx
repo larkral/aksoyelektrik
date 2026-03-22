@@ -49,6 +49,7 @@ export const metadata: Metadata = {
     "Afyon elektrikçi",
     "Afyonkarahisar elektrikçi",
     "kurumsal elektrik hizmetleri",
+    "Afyon elektrik",
   ],
 
   applicationName: siteName,
