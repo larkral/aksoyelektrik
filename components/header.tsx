@@ -8,8 +8,8 @@ import { Menu, X } from "lucide-react"
 
 const navItems = [
   { href: "#home", label: "Ana Sayfa" },
-  { href: "#solar-paketler", label: "Solar Paketler" },
   { href: "#tamamlanan-islerimiz", label: "İşlerimiz" },
+  { href: "#solar-paketler", label: "Solar Paketler" },
   { href: "#services", label: "Hizmetler" },
   { href: "#faq", label: "SSS" },
   { href: "#contact", label: "İletişim" },
